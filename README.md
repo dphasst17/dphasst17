@@ -8,11 +8,9 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dphasst17&theme=tokyonight" />
 </div>
 
-<div align="center">
-
-```linux
-    touch about_me.ts
-    nano about_me.ts
+```
+touch about_me.ts
+nano about_me.ts
     interface User{
         username:string
         name:string,
@@ -47,4 +45,3 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![NestJS](https://img.shields.io/badge/-Nextjs-000?&logo=NestJs)
-</div>
