@@ -7,10 +7,15 @@
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dphasst17&theme=tokyonight" />
 </div>
+
 ```shell
-touch about_me.ts
-nano about_me.ts
+    touch about_me.ts
 ```
+
+```shell
+    nano about_me.ts
+```
+
 ```typescript
     interface User{
         username:string
