@@ -30,40 +30,10 @@
                 卐                           `=---='                           卐
                 卐      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^      卐
                 卐      No Crash ||  Buddha Blessing my Server  || No Bug      卐
-                卐                        namoadidaphat                        卐
+                卐                                                             卐
                 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\////////////////////////////////
 ```
 
-```shell
-    touch about_me.ts
-```
-
-```shell
-    nano about_me.ts
-```
-
-```typescript
-    interface User{
-        username:string
-        name:string,
-        email:string
-    }
-    const user1:User = {
-        username:'dfast17',
-        name:'Phat',
-        email:'d.phat1753@gmail.com'
-    }
-    const createUserIntroduction = (user: User): string => {
-      return `
-      Hello everyone!
-      My name is ${user.name}.
-      My email address is ${user.email}.
-      ${user.age ? `I am ${user.age} years old.` : ""}
-      Nice to meet you all!
-      `;
-    };
-    console.log(createUserIntroduction(user1));
-```
 
 ### Languages
     
