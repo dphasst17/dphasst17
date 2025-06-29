@@ -8,9 +8,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dphasst17&theme=tokyonight" />
 </div>
 
+###
+![LeetCode Stats](https://leetcode-solved-problems.vercel.app/api?username=dphasst17)
+![LeetCode Stats](https://leetcode-solved-problems.vercel.app/api?username=dphasst17&type=calendar&bolder=false)
 
 ### Languages
-    
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
